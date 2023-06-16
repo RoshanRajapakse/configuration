@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190515
 LABEL maintainer="edxops"
 ENV CONFIGURATION_REPO="https://github.com/openedx/configuration.git"
 ENV CONFIGURATION_VERSION="master"

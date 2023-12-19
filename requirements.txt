@@ -70,7 +70,7 @@ networkx==1.11
     # via -r requirements/base.in
 packaging==21.3
     # via ansible-base
-paramiko==2.4.2
+paramiko==3.4.0
     # via -r requirements/base.in
 pathlib2==2.3.0
     # via -r requirements/base.in

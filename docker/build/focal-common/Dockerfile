@@ -1,5 +1,5 @@
 ARG BASE_IMAGE_TAG=latest
-FROM ubuntu:focal
+FROM ubuntu:20.04
 LABEL maintainer="edxops"
 
 # Set locale to UTF-8 which is not the default for docker.

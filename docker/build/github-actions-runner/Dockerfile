@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM ubuntu:20.04
 
 # Set the github runner version
 ARG RUNNER_VERSION="2.279.0"

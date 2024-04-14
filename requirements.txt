@@ -50,7 +50,7 @@ docutils==0.16
     # via awscli
 ecdsa==0.13.3
     # via -r requirements/base.in
-idna==3.3
+idna==3.7
     # via requests
 jinja2==2.8
     # via

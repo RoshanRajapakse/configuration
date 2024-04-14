@@ -46,7 +46,7 @@ colorama==0.4.4
     # via awscli
 docutils==0.16
     # via awscli
-idna==3.3
+idna==3.7
     # via requests
 jmespath==1.0.1
     # via

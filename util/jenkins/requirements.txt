@@ -60,7 +60,7 @@ prompt-toolkit==3.0.31
     # via click-repl
 pyasn1==0.4.8
     # via rsa
-pymysql==0.9.3
+pymysql==1.1.1
     # via -r requirements/jenkins.in
 python-dateutil==2.8.2
     # via
@@ -81,7 +81,7 @@ pyyaml==5.4.1
     #   awscli
 redis==2.10.6
     # via -r requirements/jenkins.in
-requests==2.28.1
+requests==2.32.0
     # via opsgenie-sdk
 rsa==4.7.2
     # via awscli

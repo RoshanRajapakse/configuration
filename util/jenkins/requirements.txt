@@ -98,7 +98,7 @@ six==1.16.0
     #   python-dateutil
 splunk-sdk==1.6.16
     # via -r requirements/jenkins.in
-urllib3==1.26.12
+urllib3==1.26.19
     # via
     #   botocore
     #   opsgenie-sdk

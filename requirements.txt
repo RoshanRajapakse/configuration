@@ -112,7 +112,7 @@ six==1.16.0
     #   bcrypt
     #   pathlib2
     #   python-dateutil
-urllib3==1.26.12
+urllib3==1.26.19
     # via
     #   botocore
     #   requests

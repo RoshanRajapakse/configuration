@@ -76,7 +76,7 @@ pathlib2==2.3.0
     # via -r requirements/base.in
 prettytable==0.7.2
     # via -r requirements/base.in
-pyasn1==0.4.8
+pyasn1==0.6.2
     # via
     #   paramiko
     #   rsa

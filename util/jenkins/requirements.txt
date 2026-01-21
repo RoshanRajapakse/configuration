@@ -58,7 +58,7 @@ opsgenie-sdk==0.3.1
     # via -r requirements/jenkins.in
 prompt-toolkit==3.0.31
     # via click-repl
-pyasn1==0.4.8
+pyasn1==0.6.2
     # via rsa
 pymysql==0.9.3
     # via -r requirements/jenkins.in
